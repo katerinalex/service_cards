@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f378a422.css",
-    "main.js": "/static/js/main.8de8a471.js",
-    "static/js/453.a98d57f6.chunk.js": "/static/js/453.a98d57f6.chunk.js",
-    "static/media/Geom.svg": "/static/media/Geom.c3ccfe18cf4da503dc13589f1b4e349e.svg",
-    "static/media/instalation.svg": "/static/media/instalation.b6ff070b82368a48ec097b0b4551f2f9.svg",
-    "static/media/Tap.svg": "/static/media/Tap.11a72f1d5e38f999182e7dff6ffcc156.svg",
-    "static/media/Electrical.svg": "/static/media/Electrical.07386e0da6cc94e83df322c746b5e5e0.svg",
-    "static/media/paint.svg": "/static/media/paint.875c245059d17acc933975cbd7850741.svg",
-    "static/media/home.svg": "/static/media/home.c856a8b0573dfb0a6561222ee60c637b.svg",
-    "static/media/Frame 11.svg": "/static/media/Frame 11.ce3b5fefd7fd6e2300dab6b10dfff23d.svg",
-    "static/media/picture.svg": "/static/media/picture.d6ef8b708079097f835bb1e72fbd24b0.svg",
-    "index.html": "/index.html",
-    "static/media/door.svg": "/static/media/door.777dc921e91928aaa709644676ecf510.svg",
-    "main.f378a422.css.map": "/static/css/main.f378a422.css.map",
-    "main.8de8a471.js.map": "/static/js/main.8de8a471.js.map",
-    "453.a98d57f6.chunk.js.map": "/static/js/453.a98d57f6.chunk.js.map"
+    "main.css": "./static/css/main.f378a422.css",
+    "main.js": "./static/js/main.d992373c.js",
+    "static/js/453.a98d57f6.chunk.js": "./static/js/453.a98d57f6.chunk.js",
+    "static/media/Geom.svg": "./static/media/Geom.c3ccfe18cf4da503dc13589f1b4e349e.svg",
+    "static/media/instalation.svg": "./static/media/instalation.b6ff070b82368a48ec097b0b4551f2f9.svg",
+    "static/media/Tap.svg": "./static/media/Tap.11a72f1d5e38f999182e7dff6ffcc156.svg",
+    "static/media/Electrical.svg": "./static/media/Electrical.07386e0da6cc94e83df322c746b5e5e0.svg",
+    "static/media/paint.svg": "./static/media/paint.875c245059d17acc933975cbd7850741.svg",
+    "static/media/home.svg": "./static/media/home.c856a8b0573dfb0a6561222ee60c637b.svg",
+    "static/media/Frame 11.svg": "./static/media/Frame 11.ce3b5fefd7fd6e2300dab6b10dfff23d.svg",
+    "static/media/picture.svg": "./static/media/picture.d6ef8b708079097f835bb1e72fbd24b0.svg",
+    "index.html": "./index.html",
+    "static/media/door.svg": "./static/media/door.777dc921e91928aaa709644676ecf510.svg",
+    "main.f378a422.css.map": "./static/css/main.f378a422.css.map",
+    "main.d992373c.js.map": "./static/js/main.d992373c.js.map",
+    "453.a98d57f6.chunk.js.map": "./static/js/453.a98d57f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f378a422.css",
-    "static/js/main.8de8a471.js"
+    "static/js/main.d992373c.js"
   ]
 }
