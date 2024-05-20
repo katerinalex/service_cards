@@ -1,3 +1,9 @@
+# DEMO of project
+
+DEMO of project by [Link](https://katerinalex.github.io/service_cards/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
